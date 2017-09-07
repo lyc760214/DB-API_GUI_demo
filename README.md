@@ -18,6 +18,13 @@ you can change subroutine "submit_do".
 
 
 
+# System
+OS: OpenSuse 42.3
+Perl: 5.26.0
+Tk: 804.034
+Net::MySQL: 0.11
+
+
 # Others
 This is just a practice, and you can change
 anthing if you like.
